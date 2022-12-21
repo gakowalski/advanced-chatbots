@@ -18,7 +18,7 @@ GPT-3 | OpenAI | | 125M<br>350M<br>760M<br>1.3B<br>2.7B<br>6.7<br>13B<br>175B | 
 
 * GPT-4 (OpenAI)
 * LaMDA 2.0 (Google)
-* Sparrow (DeepMind)
+* [Sparrow](https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/sparrow/sparrow-final.pdf) (DeepMind)
 
 # Links
 
