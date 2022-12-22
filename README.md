@@ -23,3 +23,4 @@ GPT-3 | OpenAI | | 125M<br>350M<br>760M<br>1.3B<br>2.7B<br>6.7<br>13B<br>175B | 
 # Links
 
 * [2022 LifeArchitect.ai data (shared)](https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit#gid=1158069878) - summary of current models
+* [Antler Gen-AI Landscape](https://airtable.com/shrBeWpMlxf3e14E8/tblS4TkbJbm0cqT0o)
