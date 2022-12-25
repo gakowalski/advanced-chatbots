@@ -4,6 +4,7 @@ List of publicly accesible advanced chatbots
 ## GPT-3 tier
 Name | Owner | Description | Parameters | Access to the Internet | Long-term memory | Generate images | Lanugages | Research Papers
 --- | --- | --- | --- | --- | --- | --- | --- | ---
+[Alpa OPT-175B](https://opt.alpa.ai) | ? | GPT-3 equivalent model, not exactly a chatbot but free, uncensored and can be used to generate chat logs | 175B | ? | ? | no | ? | [link](https://arxiv.org/pdf/2201.12023.pdf)
 [BlenderBot 3.0](https://blenderbot.ai/) aka BB3 | Meta / Facebook | Restricted to US residents (so I couldn't check it by myself) | 3B<br>30B<br>175B | yes | yes | ? | English | [link](https://arxiv.org/abs/2208.03188)
 [ChatGPT](https://chat.openai.com/chat) aka GPT 3.5 | OpenAI | Open to public, database limited to ~2021 | ? | no | no | no | Multilanguage | ?
 [Chatsonic](https://writesonic.com/chat) | Writesonic | Free trial | ? | yes | ? | yes | ? | ?
